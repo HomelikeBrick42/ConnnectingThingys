@@ -1,0 +1,7 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "outFile": "./build/build.js",
+        "removeComments": true,
+    }
+}
